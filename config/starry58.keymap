@@ -38,7 +38,7 @@
                                 &trans    &trans &trans &trans    &trans   &trans                               &trans   &trans  &trans    &trans    &trans   &trans
                                 &trans    &trans &trans &trans    &trans   &trans                               &trans   &trans  &trans    &trans    &trans   &trans
                                 &trans    &trans &trans &trans    &trans   &trans   &trans         &trans       &trans   &trans  &trans    &trans    &trans   &trans
-                                                        &trans    &trans   &mo ADJ  &trans         &trans       &trans   &trans  &trans
+                                                        &trans    &trans   &trans   &trans         &trans       &mo ADJ   &trans  &trans
                         >;
                 };
 
@@ -48,7 +48,7 @@
                                 &trans    &trans &trans &trans    &trans   &trans                               &trans   &trans  &trans    &trans    &trans   &trans
                                 &trans    &trans &trans &trans    &trans   &trans                               &trans   &trans  &trans    &trans    &trans   &trans
                                 &trans    &trans &trans &trans    &trans   &trans   &trans         &trans       &trans   &trans  &trans    &trans    &trans   &trans
-                                                        &trans    &trans   &trans   &trans         &trans       &mo ADJ  &trans  &trans
+                                                        &trans    &trans   &mo ADJ  &trans         &trans       &trans  &trans  &trans
                         >;
                 };
 
