@@ -6,4 +6,4 @@ Supermini nRF52840
 
 To ensure proper firmware operation, accurately connect the pins according to the pinout diagram below.
 
-![Pinout](assets/gpio-mapping.png?raw=true "GPIO Mapping")
+![Pinout](assets/pinout.png?raw=true "GPIO Mapping")
