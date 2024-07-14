@@ -1,0 +1,11 @@
+file_format: "1"
+id: starry58
+name: Starry58
+type: shield
+url: https://github.com/doannc2212/starry58_zmk.git
+requires: [nice_nano_v2]
+features:
+  - keys
+siblings:
+  - starry58_left
+  - starry58_right
