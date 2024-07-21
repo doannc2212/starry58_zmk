@@ -9,7 +9,7 @@ To ensure proper firmware operation, accurately connect the pins according to th
 ![Pinout](assets/pinout.png?raw=true "GPIO Mapping")
 
 ### Enter bootloader mode
-
+The Supermini nRF52840 may need to have RST shorted to GND twice, quickly to actually jump to bootloader
 ![Bootloader](assets/bootloader.png?raw=true "Bootloader")
 
 ## Flash firmware
